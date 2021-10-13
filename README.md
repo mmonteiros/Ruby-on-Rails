@@ -1,4 +1,4 @@
-# Ruby-on-Rails <img alt="Monteiro-Ruby" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" />
+# Ruby-on-Rails <img alt="Monteiro-Ruby" height="50" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" />
 Objectives achieved in development:
 
 1. Creating applications
