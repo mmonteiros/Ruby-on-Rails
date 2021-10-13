@@ -1,4 +1,4 @@
-# Ruby-on-Rails 
+# Ruby-on-Rails <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" />
 Objectives achieved in development:
 
 1. Creating applications
