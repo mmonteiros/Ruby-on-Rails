@@ -1,24 +1,15 @@
-# README
+# Ruby-on-Rails 
+Objectives achieved in development:
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+1. Creating applications
+2. Using the Rails console
+3. Generating scaffolds
+4. Running advanced database queries
+5. How to configure RESTful routes
+6. Configuring views
+7. Building out the full Model/View/Controller architecture
+8. Working with multiple database options
+9. Creating custom algorithms
+10. Building a file uploader connected to a CDN
+11. Working with Ruby gem libraries
+12. Integrating authentication
